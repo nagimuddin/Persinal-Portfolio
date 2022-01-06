@@ -24,6 +24,10 @@ h1 span{
 h2 span{ 
     color: #FFAD5A;
 }
+
+h3 span{ 
+    color: #FFAD5A;
+}
 .container{
     width: 1170px;
     display: flex;

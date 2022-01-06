@@ -137,9 +137,32 @@ h2 span{
 
 .section-two {
     padding-top: 105px;
+    padding-bottom: 105px;
 }
 
 .global {
     padding-right: 0;
     padding-left: 100px;
+}
+
+footer {
+    background-color: #0B0D17;
+    padding: 50px 0;
+    text-align: center;
+}
+
+footer h3 {
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+footer h3 span{
+color: #FF5959;
+}
+
+footer p{
+    color: #D9DBE1;
+    font-size: 14px;
 }

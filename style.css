@@ -53,7 +53,7 @@ h2 span{
     background-color: #FF5959;
     color: white;
     padding: 12px 22px;
-    border-radius: 6px;
+    border-radius: 5px;
     display: inline-block;
     font-weight: 500;
 }
@@ -101,8 +101,45 @@ h2 span{
     height: 141px;
 }
 
+.mission-item h4 {
+    font-size: 24px;
+}
+
 .mission-item p {
     color: #424242;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.about-section h3 {
+    font-size: 36px;
+    line-height: 54px;
+    color: #333333;
+}
+
+.image-left {
+    padding-right: 72px;
+}
+
+.image-left img{
+    width: 400px;
+    height: 400px;
+}
+
+.develop-right p{
+    margin-top: 10px;
+    color: #3E3E3E;
+}
+
+.develop-right .button{
+    margin-top: 20px;
+}
+
+.section-two {
+    padding-top: 105px;
+}
+
+.global {
+    padding-right: 0;
+    padding-left: 100px;
 }
